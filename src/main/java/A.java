@@ -8,6 +8,7 @@ public class A {
         System.out.println("hello5");
         System.out.println("hotfix---hello5");
         System.out.println("master---hello5");
+        System.out.println("hotfix---hello6");
 
 
     }
