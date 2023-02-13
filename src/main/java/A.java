@@ -1,4 +1,5 @@
 public class A {
+    //一个简单的测试
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("hello2");
