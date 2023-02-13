@@ -11,7 +11,7 @@ public class A {
         System.out.println("hotfix---hello6");
         System.out.println("hotfix---hello7");
          System.out.println("hotfix---hello9");
-    
+    System.out.println("叫我一声大哥我带你进电子厂");
 
     }
 }
